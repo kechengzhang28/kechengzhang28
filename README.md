@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm [Kecheng Zhang](https://github.com/kechengzhang28)
 
-<p align="center">
+<p align="right">
     <a href="https://git.io/streak-stats" >
         <img src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=640" alt="GitHub Streak" />
     </a>
