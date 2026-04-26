@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm [Kecheng Zhang](https://github.com/kechengzhang28)
 
-### About Me
 My focus is on Artificial Intelligence and Machine Learning. As a continuous explorer of technology, I am passionate about tracking cutting-edge concepts and dedicated to translating innovation into interesting and beneficial practices.
 
 If you find my work helpful, please consider supporting me ☕
