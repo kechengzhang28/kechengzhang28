@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi there, I'm [Kecheng Zhang](https://github.com/kechengzhang28)
+
+<p align="center">
+    <a href="https://git.io/streak-stats" >
+        <img src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=640" alt="GitHub Streak" />
+    </a>
+</p>
 
 <!--
 **kechengzhang28/kechengzhang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
