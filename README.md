@@ -1,11 +1,5 @@
 ## 👋 Hi there, I'm [Kecheng Zhang](https://github.com/kechengzhang28)
 
-<p align="right">
-    <a href="https://git.io/streak-stats" >
-        <img src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=640" alt="GitHub Streak" />
-    </a>
-</p>
-
 ### About Me
 My focus is on Artificial Intelligence and Machine Learning. As a continuous explorer of technology, I am passionate about tracking cutting-edge concepts and dedicated to translating innovation into interesting and beneficial practices.
 
@@ -33,6 +27,12 @@ My focus is on Artificial Intelligence and Machine Learning. As a continuous exp
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+
+<p align="center">
+    <a href="https://git.io/streak-stats" >
+        <img src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=640" alt="GitHub Streak" />
+    </a>
+</p>
 
 <!--    
 **kechengzhang28/kechengzhang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
