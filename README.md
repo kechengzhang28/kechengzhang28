@@ -4,6 +4,13 @@
 My focus is on Artificial Intelligence and Machine Learning. As a continuous explorer of technology, I am passionate about tracking cutting-edge concepts and dedicated to translating innovation into interesting and beneficial practices.
 
 <p align="center">
+    <a href="https://git.io/streak-stats" >
+        <img src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=640" alt="GitHub Streak" />
+    </a>
+</p>
+
+<!--    
+<p align="center">
     <img src="https://img.shields.io/badge/Python-5B8DB8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Java-D4A574?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/JavaScript-F0E68C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -13,24 +20,4 @@ My focus is on Artificial Intelligence and Machine Learning. As a continuous exp
     <img src="https://img.shields.io/badge/CSS-7BA7D9?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Unity-6B6B6B?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
-
-<p align="center">
-    <a href="https://git.io/streak-stats" >
-        <img src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=640" alt="GitHub Streak" />
-    </a>
-</p>
-
-<!--    
-**kechengzhang28/kechengzhang28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
