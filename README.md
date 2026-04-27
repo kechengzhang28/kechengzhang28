@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kechengzhang28&rank_icon=github&hide_border=true" />
 
 ### About Me
-My focus is on Artificial Intelligence and Machine Learning. As a continuous explorer of technology, I am passionate about tracking cutting-edge concepts and dedicated to translating innovation into interesting and beneficial practices 🔬
+My focus is on AI/ML. As a continuous explorer of technology, I am passionate about tracking cutting-edge concepts and dedicated to translating innovation into interesting and beneficial practices 🔬
 
 If you find my work helpful, your support means a lot ☕
 
