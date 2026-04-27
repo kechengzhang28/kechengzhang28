@@ -1,17 +1,13 @@
 ## Hi there, I'm [Kecheng Zhang](https://github.com/kechengzhang28) 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kechengzhang28&rank_icon=github" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kechengzhang28&rank_icon=github&hide_border=true" />
 
 ### About Me
 My focus is on Artificial Intelligence and Machine Learning. As a continuous explorer of technology, I am passionate about tracking cutting-edge concepts and dedicated to translating innovation into interesting and beneficial practices 🔬
 
 If you find my work helpful, your support means a lot ☕
 
-<p align="center">
-    <a href="https://git.io/streak-stats" >
-        <img src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=640" alt="GitHub Streak" />
-    </a>
-</p>
+<img align="center" src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=1280" alt="GitHub Streak" />
 
 <p align="right">
     <a href="https://www.buymeacoffee.com/kechengzhang" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
