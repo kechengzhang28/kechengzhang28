@@ -7,7 +7,7 @@ My focus is on Artificial Intelligence and Machine Learning. As a continuous exp
 
 If you find my work helpful, your support means a lot ☕
 
-<img align="center" src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=1280" alt="GitHub Streak" />
+<img align="center" src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=1000" alt="GitHub Streak" />
 
 <p align="right">
     <a href="https://www.buymeacoffee.com/kechengzhang" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
