@@ -1,14 +1,10 @@
 ## Hi there, I'm [Kecheng Zhang](https://github.com/kechengzhang28) 👋
 
-### About Me
-My focus is on AI/ML. As a continuous explorer of technology, I am passionate about tracking cutting-edge concepts and dedicated to translating innovation into interesting and beneficial practices 🔬
-
-<br>
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kechengzhang28&rank_icon=github&hide_border=true&show_icons=true" /> | <img align="center" src="https://streak-stats.demolab.com?user=kechengzhang28&hide_border=true&card_width=500" alt="GitHub Streak" /> |
 | --- | --- |
 
-<br>
+### About Me
+My focus is on AI/ML. As a continuous explorer of technology, I am passionate about tracking cutting-edge concepts and dedicated to translating innovation into interesting and beneficial practices 🔬
 
 It would be great if my work helps, your support means a lot ☕
 
