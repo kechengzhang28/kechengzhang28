@@ -10,7 +10,7 @@ My focus is on AI/ML. As a continuous explorer of technology, I am passionate ab
 
 <br>
 
-Hope you find my work helpful, your support means a lot ☕
+It would be great if my work helps, your support means a lot ☕
 
 <div align="left">
     <a href="https://www.buymeacoffee.com/kechengzhang" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
