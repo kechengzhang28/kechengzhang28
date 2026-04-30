@@ -4,7 +4,7 @@
 | --- | --- |
 
 ### About Me
-🔬 My focus is on AI/ML. As continuous explorer of technology, I'm passionate about tracking cutting-edge concepts and innovations, and put them into interesting and beneficial practices.
+🔬 My focus is on AI/ML. As a continuous explorer of technology, I'm passionate about tracking cutting-edge concepts and innovations, and putting them into practice in interesting and beneficial ways.
 
 ☕ It would be great if my work helps, your support means a lot!
 
